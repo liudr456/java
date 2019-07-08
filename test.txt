@@ -1,3 +1,7 @@
 test
+<<<<<<< HEAD
 new test ²âÊÔ
 continue test
+=======
+test1£¬²âÊÔ
+>>>>>>> c7093682d0c46520614b13239d66da0479fbc0de
