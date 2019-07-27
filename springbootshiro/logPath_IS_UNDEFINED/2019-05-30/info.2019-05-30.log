@@ -1,0 +1,8 @@
+2019-05-30 10:16:06 | INFO | com.cc.App | main:37 | hello slf4j
+2019-05-30 10:16:08 | INFO | com.cc.App | main:37 | hello slf4j
+2019-05-30 10:16:10 | INFO | com.cc.App | logStarting:48 | Starting App on DESKTOP-AUSQCP3 with PID 19820 (started by lenovo in E:\liu2\JAVA\工具\springbootshiro)
+2019-05-30 10:16:10 | INFO | com.cc.App | logStartupProfileInfo:593 | No active profile set, falling back to default profiles: default
+2019-05-30 10:16:11 | INFO | org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext | prepareRefresh:590 | Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@d25a414: startup date [Thu May 30 10:16:11 CST 2019]; root of context hierarchy
+2019-05-30 10:16:12 | INFO | org.hibernate.validator.internal.util.Version | <clinit>:21 | HV000001: Hibernate Validator 6.0.12.Final
+2019-05-30 10:16:15 | INFO | org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor | <init>:153 | JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-05-30 10:16:16 | INFO | org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker | postProcessAfterInitialization:326 | Bean 'shiroConfig' of type [com.cc.config.ShiroConfig$$EnhancerBySpringCGLIB$$b2ae9cad] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
